@@ -1,5 +1,8 @@
-#ANNADATA
+**ANNADATA**
+
 DARK_HacK on project (food waste redistribution and surplus routing platform) in HACK_HORIZON 2.0
+
+
 A Food Waste Redistribution and Surplus Routing Platform is a smart digital system (like your app Annadata) that connects places
 with extra food—such as restaurants, hotels, and events—with people or organizations that need it, like NGOs and shelters. 
 Instead of letting good food go to waste, the platform collects information about available surplus food and efficiently 
